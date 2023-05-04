@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\ProjetoDelphi\Testes\Win32\Debug\PostoTestes.exe" total="12" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2023-05-03" time="6.738">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="PostoTestes.exe" executed="true" result="Success" success="True" time="6.738" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="Post" executed="true" result="Success" success="True" time="18.859" asserts="0" >
+          <results>
+              <test-suite type="Namespace" name="Cadastro" executed="true" result="Success" success="True" time="14.150" asserts="0" >
+                <results>
+                    <test-suite type="Namespace" name="Bomba" executed="true" result="Success" success="True" time="9.254" asserts="0" >
+                      <results>
+                          <test-suite type="Fixture" name="TBombaTestIntegracao" executed="True" result="Success" success="True" time="6.737" >
+                            <results>
+                              <test-case name="DeveValidarGravar" executed="True" result="Success" success="True" time="3.116" asserts="0" />
+                              <test-case name="DeveValidarExcluir" executed="True" result="Success" success="True" time="1.063" asserts="0" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="Fixture" name="TBombaTestUnitatio" executed="True" result="Success" success="True" time="2.517" >
+                            <results>
+                              <test-case name="DeveValidarGravar" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                              <test-case name="DeveValidarExcluir" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                            </results>
+                          </test-suite>
+                      </results>
+                    </test-suite>
+                    <test-suite type="Namespace" name="Combustivel" executed="true" result="Success" success="True" time="4.897" asserts="0" >
+                      <results>
+                          <test-suite type="Fixture" name="TCombustivelTestIntegracao" executed="True" result="Success" success="True" time="2.473" >
+                            <results>
+                              <test-case name="DeveValidarGravar" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                              <test-case name="DeveValidarExcluir" executed="True" result="Success" success="True" time="0.006" asserts="0" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="Fixture" name="TCombustivelTestUnitatio" executed="True" result="Success" success="True" time="2.424" >
+                            <results>
+                              <test-case name="DeveValidarGravar" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                              <test-case name="DeveValidarExcluir" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                            </results>
+                          </test-suite>
+                      </results>
+                    </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="Namespace" name="Abastecimento" executed="true" result="Success" success="True" time="4.709" asserts="0" >
+                <results>
+                    <test-suite type="Fixture" name="TAbastecimentoTestUnitatio" executed="True" result="Success" success="True" time="2.375" >
+                      <results>
+                        <test-case name="DeveValidarGravar" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                        <test-case name="DeveValidarExcluir" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                      </results>
+                    </test-suite>
+                    <test-suite type="Fixture" name="TAbastecimentoTestIntegracao" executed="True" result="Success" success="True" time="2.334" >
+                      <results>
+                        <test-case name="DeveValidarGravar" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+                        <test-case name="DeveValidarExcluir" executed="True" result="Success" success="True" time="2.286" asserts="0" />
+                      </results>
+                    </test-suite>
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

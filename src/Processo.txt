@@ -1,0 +1,17 @@
+1-Criar BD e as tabelas no Banco de dados. C:\ProjetoDelphi\Desafio\Tabelas.txt
+2-Adicionar as libraryes que estão no arquivos C:\ProjetoDelphi\Desafio\LibrarysComponents.txt
+3-Foram utilizados os componentes Delphi-Mocks,Spring4D e FastReport apenas.
+4-Na tela principal contem todos os recurso solicitados.
+4.1 - Menu para cadastrar os Combustíveis
+4.2 - Menu para Cadastrar as bombas
+4.3 - Menu para emitir o relatório.
+
+5 - Foram utlizado para desenvolver o desafio, Arquitetura MVC com adaptação/POO/Clean Code Etc.
+6 - Utilizado Spring para injeção de dependências, sendo assim quando não tem Creates dentro do código.
+7 - Segue BD dentro da Pasta C:\ProjetoDelphi\src\Banco
+
+Obs- Delphi Utilizado no projeto 10.4
+
+ 
+
+
